@@ -20,7 +20,7 @@ animation-fill-mode: both;
 }
 
 .animateRight{
-
+  animation-duration: 400ms;
   animation-name: goRight;
 }
 
@@ -75,5 +75,4 @@ animation-fill-mode: both;
   to {transform: translateX(-500px)}
 }
 
-  
   
